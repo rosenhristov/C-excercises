@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\01.SequencePrinter\bin\Debug\01.SequencePrinter.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\01.SequencePrinter\obj\Debug\01.SequencePrinter.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\01.SequencePrinter\bin\Debug\01.SequencePrinter.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\01.SequencePrinter\bin\Debug\01.SequencePrinter.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\01.SequencePrinter\obj\Debug\01.SequencePrinter.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\01.SequencePrinter\obj\Debug\01.SequencePrinter.pdb

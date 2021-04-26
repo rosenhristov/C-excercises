@@ -1,0 +1,9 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\bin\Debug\Zad7_Hello World.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\bin\Debug\Zad7_Hello World.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\bin\Debug\Zad7_Hello World.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\obj\Debug\Zad7_Hello World.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\obj\Debug\Zad7_Hello World.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\obj\Debug\Zad7_Hello World.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\bin\Debug\Zad7_Hello World.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\obj\Debug\Zad7_Hello World.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad7_Hello World\Zad7_Hello World\obj\Debug\Zad7_Hello World.pdb

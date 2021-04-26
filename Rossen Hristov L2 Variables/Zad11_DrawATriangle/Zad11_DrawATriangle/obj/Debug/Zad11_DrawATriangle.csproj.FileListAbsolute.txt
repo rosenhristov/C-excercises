@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad11_DrawATriangle\Zad11_DrawATriangle\bin\Debug\Zad11_DrawATriangle.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad11_DrawATriangle\Zad11_DrawATriangle\bin\Debug\Zad11_DrawATriangle.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad11_DrawATriangle\Zad11_DrawATriangle\bin\Debug\Zad11_DrawATriangle.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad11_DrawATriangle\Zad11_DrawATriangle\obj\Debug\Zad11_DrawATriangle.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad11_DrawATriangle\Zad11_DrawATriangle\obj\Debug\Zad11_DrawATriangle.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad11_DrawATriangle\Zad11_DrawATriangle\obj\Debug\Zad11_DrawATriangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\DEVELOPEMENT\C#\ageInTenYears\ageInTenYears\bin\Debug\ageInTenYears.exe.config
+C:\DEVELOPEMENT\C#\ageInTenYears\ageInTenYears\bin\Debug\ageInTenYears.exe
+C:\DEVELOPEMENT\C#\ageInTenYears\ageInTenYears\bin\Debug\ageInTenYears.pdb
+C:\DEVELOPEMENT\C#\ageInTenYears\ageInTenYears\obj\Debug\ageInTenYears.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\ageInTenYears\ageInTenYears\obj\Debug\ageInTenYears.exe
+C:\DEVELOPEMENT\C#\ageInTenYears\ageInTenYears\obj\Debug\ageInTenYears.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\ageInTenYears\ageInTenYears\bin\Debug\ageInTenYears.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\ageInTenYears\ageInTenYears\obj\Debug\ageInTenYears.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\ageInTenYears\ageInTenYears\obj\Debug\ageInTenYears.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\ageInTenYears\ageInTenYears\bin\Debug\ageInTenYears.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\ageInTenYears\ageInTenYears\bin\Debug\ageInTenYears.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\ageInTenYears\ageInTenYears\obj\Debug\ageInTenYears.csprojResolveAssemblyReference.cache

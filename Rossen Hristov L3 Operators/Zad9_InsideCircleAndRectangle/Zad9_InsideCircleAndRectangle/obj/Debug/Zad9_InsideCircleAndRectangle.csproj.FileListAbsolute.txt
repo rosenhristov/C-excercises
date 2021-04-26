@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad9_InsideCircleAndRectangle\Zad9_InsideCircleAndRectangle\bin\Debug\Zad9_InsideCircleAndRectangle.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad9_InsideCircleAndRectangle\Zad9_InsideCircleAndRectangle\bin\Debug\Zad9_InsideCircleAndRectangle.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad9_InsideCircleAndRectangle\Zad9_InsideCircleAndRectangle\bin\Debug\Zad9_InsideCircleAndRectangle.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad9_InsideCircleAndRectangle\Zad9_InsideCircleAndRectangle\obj\Debug\Zad9_InsideCircleAndRectangle.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad9_InsideCircleAndRectangle\Zad9_InsideCircleAndRectangle\obj\Debug\Zad9_InsideCircleAndRectangle.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad9_InsideCircleAndRectangle\Zad9_InsideCircleAndRectangle\obj\Debug\Zad9_InsideCircleAndRectangle.pdb

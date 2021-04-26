@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad12_WriteABit\Zad12_WriteABit\bin\Debug\Zad12_WriteABit.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad12_WriteABit\Zad12_WriteABit\bin\Debug\Zad12_WriteABit.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad12_WriteABit\Zad12_WriteABit\bin\Debug\Zad12_WriteABit.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad12_WriteABit\Zad12_WriteABit\obj\Debug\Zad12_WriteABit.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad12_WriteABit\Zad12_WriteABit\obj\Debug\Zad12_WriteABit.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad12_WriteABit\Zad12_WriteABit\obj\Debug\Zad12_WriteABit.pdb

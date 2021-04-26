@@ -1,0 +1,9 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\bin\Debug\Zad5_72inUnicode.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\obj\Debug\Zad5_72inUnicode.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\bin\Debug\Zad5_72inUnicode.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\bin\Debug\Zad5_72inUnicode.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\obj\Debug\Zad5_72inUnicode.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\obj\Debug\Zad5_72inUnicode.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\bin\Debug\Zad5_72inUnicode.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\obj\Debug\Zad5_72inUnicode.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad5_72inUnicode\Zad5_72inUnicode\obj\Debug\Zad5_72inUnicode.pdb

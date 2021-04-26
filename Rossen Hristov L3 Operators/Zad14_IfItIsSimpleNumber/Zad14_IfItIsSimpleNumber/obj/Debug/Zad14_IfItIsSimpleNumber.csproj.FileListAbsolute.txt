@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad14_IfItIsSimpleNumber\Zad14_IfItIsSimpleNumber\bin\Debug\Zad14_IfItIsSimpleNumber.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad14_IfItIsSimpleNumber\Zad14_IfItIsSimpleNumber\obj\Debug\Zad14_IfItIsSimpleNumber.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad14_IfItIsSimpleNumber\Zad14_IfItIsSimpleNumber\bin\Debug\Zad14_IfItIsSimpleNumber.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad14_IfItIsSimpleNumber\Zad14_IfItIsSimpleNumber\bin\Debug\Zad14_IfItIsSimpleNumber.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad14_IfItIsSimpleNumber\Zad14_IfItIsSimpleNumber\obj\Debug\Zad14_IfItIsSimpleNumber.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad14_IfItIsSimpleNumber\Zad14_IfItIsSimpleNumber\obj\Debug\Zad14_IfItIsSimpleNumber.pdb

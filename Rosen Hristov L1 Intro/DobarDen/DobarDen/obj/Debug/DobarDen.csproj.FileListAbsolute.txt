@@ -1,0 +1,12 @@
+C:\DEVELOPEMENT\C#\DobarDen\DobarDen\bin\Debug\DobarDen.exe.config
+C:\DEVELOPEMENT\C#\DobarDen\DobarDen\bin\Debug\DobarDen.exe
+C:\DEVELOPEMENT\C#\DobarDen\DobarDen\bin\Debug\DobarDen.pdb
+C:\DEVELOPEMENT\C#\DobarDen\DobarDen\obj\Debug\DobarDen.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\DobarDen\DobarDen\obj\Debug\DobarDen.exe
+C:\DEVELOPEMENT\C#\DobarDen\DobarDen\obj\Debug\DobarDen.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DobarDen\DobarDen\bin\Debug\DobarDen.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DobarDen\DobarDen\obj\Debug\DobarDen.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DobarDen\DobarDen\obj\Debug\DobarDen.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DobarDen\DobarDen\bin\Debug\DobarDen.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DobarDen\DobarDen\bin\Debug\DobarDen.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DobarDen\DobarDen\obj\Debug\DobarDen.csprojResolveAssemblyReference.cache

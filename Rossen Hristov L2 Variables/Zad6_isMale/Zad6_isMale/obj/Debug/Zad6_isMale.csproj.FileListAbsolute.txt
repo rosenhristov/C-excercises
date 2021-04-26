@@ -1,0 +1,8 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\bin\Debug\Zad6_isMale.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\bin\Debug\Zad6_isMale.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\bin\Debug\Zad6_isMale.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\obj\Debug\Zad6_isMale.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\obj\Debug\Zad6_isMale.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\bin\Debug\Zad6_isMale.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\obj\Debug\Zad6_isMale.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad6_isMale\Zad6_isMale\obj\Debug\Zad6_isMale.pdb

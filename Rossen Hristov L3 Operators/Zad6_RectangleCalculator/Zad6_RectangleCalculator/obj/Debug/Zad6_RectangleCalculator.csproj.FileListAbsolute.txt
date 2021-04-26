@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad6_RectangleCalculator\Zad6_RectangleCalculator\bin\Debug\Zad6_RectangleCalculator.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad6_RectangleCalculator\Zad6_RectangleCalculator\bin\Debug\Zad6_RectangleCalculator.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad6_RectangleCalculator\Zad6_RectangleCalculator\bin\Debug\Zad6_RectangleCalculator.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad6_RectangleCalculator\Zad6_RectangleCalculator\obj\Debug\Zad6_RectangleCalculator.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad6_RectangleCalculator\Zad6_RectangleCalculator\obj\Debug\Zad6_RectangleCalculator.pdb

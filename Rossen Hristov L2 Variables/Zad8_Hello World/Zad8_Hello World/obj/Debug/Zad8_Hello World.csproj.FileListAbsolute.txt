@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad8_Hello World\Zad8_Hello World\bin\Debug\Zad8_Hello World.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad8_Hello World\Zad8_Hello World\bin\Debug\Zad8_Hello World.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad8_Hello World\Zad8_Hello World\bin\Debug\Zad8_Hello World.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad8_Hello World\Zad8_Hello World\obj\Debug\Zad8_Hello World.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad8_Hello World\Zad8_Hello World\obj\Debug\Zad8_Hello World.pdb

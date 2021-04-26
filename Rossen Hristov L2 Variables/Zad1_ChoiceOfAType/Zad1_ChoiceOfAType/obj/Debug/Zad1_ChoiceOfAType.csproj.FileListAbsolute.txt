@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad1_ChoiceOfAType\Zad1_ChoiceOfAType\bin\Debug\Zad1_ChoiceOfAType.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad1_ChoiceOfAType\Zad1_ChoiceOfAType\bin\Debug\Zad1_ChoiceOfAType.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad1_ChoiceOfAType\Zad1_ChoiceOfAType\bin\Debug\Zad1_ChoiceOfAType.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad1_ChoiceOfAType\Zad1_ChoiceOfAType\obj\Debug\Zad1_ChoiceOfAType.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad1_ChoiceOfAType\Zad1_ChoiceOfAType\obj\Debug\Zad1_ChoiceOfAType.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad1_ChoiceOfAType\Zad1_ChoiceOfAType\obj\Debug\Zad1_ChoiceOfAType.pdb

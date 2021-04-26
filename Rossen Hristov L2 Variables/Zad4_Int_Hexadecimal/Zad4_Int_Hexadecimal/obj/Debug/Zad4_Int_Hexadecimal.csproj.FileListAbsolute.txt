@@ -1,0 +1,9 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\bin\Debug\Zad4_Int_Hexadecimal.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\obj\Debug\Zad4_Int_Hexadecimal.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\bin\Debug\Zad4_Int_Hexadecimal.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\bin\Debug\Zad4_Int_Hexadecimal.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\obj\Debug\Zad4_Int_Hexadecimal.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\obj\Debug\Zad4_Int_Hexadecimal.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\bin\Debug\Zad4_Int_Hexadecimal.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\obj\Debug\Zad4_Int_Hexadecimal.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad4_Int_Hexadecimal\Zad4_Int_Hexadecimal\obj\Debug\Zad4_Int_Hexadecimal.pdb

@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 4 Console Input-Output\#Homework\HW_ConsoleInput-Output\Zad11_FromOneToN\bin\Debug\Zad11_FromOneToN.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 4 Console Input-Output\#Homework\HW_ConsoleInput-Output\Zad11_FromOneToN\bin\Debug\Zad11_FromOneToN.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 4 Console Input-Output\#Homework\HW_ConsoleInput-Output\Zad11_FromOneToN\bin\Debug\Zad11_FromOneToN.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 4 Console Input-Output\#Homework\HW_ConsoleInput-Output\Zad11_FromOneToN\obj\Debug\Zad11_FromOneToN.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 4 Console Input-Output\#Homework\HW_ConsoleInput-Output\Zad11_FromOneToN\obj\Debug\Zad11_FromOneToN.pdb

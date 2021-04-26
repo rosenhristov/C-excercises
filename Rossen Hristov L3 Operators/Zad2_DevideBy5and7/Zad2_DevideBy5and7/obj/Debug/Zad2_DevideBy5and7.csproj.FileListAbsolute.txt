@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad2_DevideBy5and7\Zad2_DevideBy5and7\bin\Debug\Zad2_DevideBy5and7.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad2_DevideBy5and7\Zad2_DevideBy5and7\bin\Debug\Zad2_DevideBy5and7.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad2_DevideBy5and7\Zad2_DevideBy5and7\bin\Debug\Zad2_DevideBy5and7.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad2_DevideBy5and7\Zad2_DevideBy5and7\obj\Debug\Zad2_DevideBy5and7.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad2_DevideBy5and7\Zad2_DevideBy5and7\obj\Debug\Zad2_DevideBy5and7.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad2_DevideBy5and7\Zad2_DevideBy5and7\obj\Debug\Zad2_DevideBy5and7.csprojResolveAssemblyReference.cache

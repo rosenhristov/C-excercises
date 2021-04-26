@@ -1,0 +1,12 @@
+C:\DEVELOPEMENT\C#\MyName\MyName\bin\Debug\MyName.exe.config
+C:\DEVELOPEMENT\C#\MyName\MyName\bin\Debug\MyName.exe
+C:\DEVELOPEMENT\C#\MyName\MyName\bin\Debug\MyName.pdb
+C:\DEVELOPEMENT\C#\MyName\MyName\obj\Debug\MyName.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\MyName\MyName\obj\Debug\MyName.exe
+C:\DEVELOPEMENT\C#\MyName\MyName\obj\Debug\MyName.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\MyName\MyName\bin\Debug\MyName.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\MyName\MyName\obj\Debug\MyName.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\MyName\MyName\obj\Debug\MyName.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\MyName\MyName\bin\Debug\MyName.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\MyName\MyName\bin\Debug\MyName.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\MyName\MyName\obj\Debug\MyName.csprojResolveAssemblyReference.cache

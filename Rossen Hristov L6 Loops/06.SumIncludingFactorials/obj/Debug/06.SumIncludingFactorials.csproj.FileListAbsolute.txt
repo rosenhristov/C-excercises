@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\06.SumIncludingFactorials\bin\Debug\06.SumIncludingFactorials.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\06.SumIncludingFactorials\bin\Debug\06.SumIncludingFactorials.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\06.SumIncludingFactorials\bin\Debug\06.SumIncludingFactorials.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\06.SumIncludingFactorials\obj\Debug\06.SumIncludingFactorials.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\06.SumIncludingFactorials\obj\Debug\06.SumIncludingFactorials.pdb

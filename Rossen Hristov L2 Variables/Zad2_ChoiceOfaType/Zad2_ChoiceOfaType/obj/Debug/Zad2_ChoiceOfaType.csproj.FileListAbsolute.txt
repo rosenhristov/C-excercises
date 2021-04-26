@@ -1,0 +1,8 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\bin\Debug\Zad2_ChoiceOfaType.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\bin\Debug\Zad2_ChoiceOfaType.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\bin\Debug\Zad2_ChoiceOfaType.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\obj\Debug\Zad2_ChoiceOfaType.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\obj\Debug\Zad2_ChoiceOfaType.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\bin\Debug\Zad2_ChoiceOfaType.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\obj\Debug\Zad2_ChoiceOfaType.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad2_ChoiceOfaType\Zad2_ChoiceOfaType\obj\Debug\Zad2_ChoiceOfaType.pdb

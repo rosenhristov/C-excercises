@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad 3_IfSeven\Zad 3_IfSeven\bin\Debug\Zad 3_IfSeven.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad 3_IfSeven\Zad 3_IfSeven\bin\Debug\Zad 3_IfSeven.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad 3_IfSeven\Zad 3_IfSeven\bin\Debug\Zad 3_IfSeven.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad 3_IfSeven\Zad 3_IfSeven\obj\Debug\Zad 3_IfSeven.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad 3_IfSeven\Zad 3_IfSeven\obj\Debug\Zad 3_IfSeven.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad 3_IfSeven\Zad 3_IfSeven\obj\Debug\Zad 3_IfSeven.pdb

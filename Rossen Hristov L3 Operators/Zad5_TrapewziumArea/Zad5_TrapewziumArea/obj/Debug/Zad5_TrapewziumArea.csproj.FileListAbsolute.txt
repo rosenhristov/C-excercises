@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad5_TrapewziumArea\Zad5_TrapewziumArea\bin\Debug\Zad5_TrapewziumArea.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad5_TrapewziumArea\Zad5_TrapewziumArea\bin\Debug\Zad5_TrapewziumArea.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad5_TrapewziumArea\Zad5_TrapewziumArea\bin\Debug\Zad5_TrapewziumArea.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad5_TrapewziumArea\Zad5_TrapewziumArea\obj\Debug\Zad5_TrapewziumArea.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad5_TrapewziumArea\Zad5_TrapewziumArea\obj\Debug\Zad5_TrapewziumArea.pdb

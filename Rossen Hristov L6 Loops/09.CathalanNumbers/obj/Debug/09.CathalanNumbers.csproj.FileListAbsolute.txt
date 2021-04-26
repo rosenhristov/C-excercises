@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\09.CathalanNumbers\bin\Debug\09.CathalanNumbers.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\09.CathalanNumbers\obj\Debug\09.CathalanNumbers.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\09.CathalanNumbers\bin\Debug\09.CathalanNumbers.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\09.CathalanNumbers\bin\Debug\09.CathalanNumbers.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\09.CathalanNumbers\obj\Debug\09.CathalanNumbers.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\09.CathalanNumbers\obj\Debug\09.CathalanNumbers.pdb

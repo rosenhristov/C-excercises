@@ -1,0 +1,12 @@
+C:\DEVELOPEMENT\C#\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\DEVELOPEMENT\C#\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+C:\DEVELOPEMENT\C#\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\DEVELOPEMENT\C#\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\DEVELOPEMENT\C#\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache

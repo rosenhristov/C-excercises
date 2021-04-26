@@ -1,0 +1,18 @@
+C:\DEVELOPEMENT\C#\VektorStalb\VektorStalb\bin\Debug\VektorStalb.exe.config
+C:\DEVELOPEMENT\C#\VektorStalb\VektorStalb\bin\Debug\VektorStalb.exe
+C:\DEVELOPEMENT\C#\VektorStalb\VektorStalb\bin\Debug\VektorStalb.pdb
+C:\DEVELOPEMENT\C#\VektorStalb\VektorStalb\obj\Debug\VektorStalb.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\VektorStalb\VektorStalb\obj\Debug\VektorStalb.exe
+C:\DEVELOPEMENT\C#\VektorStalb\VektorStalb\obj\Debug\VektorStalb.pdb
+H:\Telerik domashno\VektorStalb\VektorStalb\bin\Debug\VektorStalb.exe.config
+H:\Telerik domashno\VektorStalb\VektorStalb\obj\Debug\VektorStalb.exe
+H:\Telerik domashno\VektorStalb\VektorStalb\obj\Debug\VektorStalb.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\bin\Debug\VektorStalb.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\obj\Debug\VektorStalb.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\obj\Debug\VektorStalb.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\bin\Debug\VektorStalb.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\obj\Debug\VektorStalb.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\obj\Debug\VektorStalb.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\bin\Debug\VektorStalb.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\bin\Debug\VektorStalb.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\VektorStalb\VektorStalb\obj\Debug\VektorStalb.csprojResolveAssemblyReference.cache

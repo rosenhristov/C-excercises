@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad4_BitChecker", "Zad4_BitChecker\Zad4_BitChecker.csproj", "{C636AB87-2F4F-4B10-9F83-9CCA5863468B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C636AB87-2F4F-4B10-9F83-9CCA5863468B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C636AB87-2F4F-4B10-9F83-9CCA5863468B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C636AB87-2F4F-4B10-9F83-9CCA5863468B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C636AB87-2F4F-4B10-9F83-9CCA5863468B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

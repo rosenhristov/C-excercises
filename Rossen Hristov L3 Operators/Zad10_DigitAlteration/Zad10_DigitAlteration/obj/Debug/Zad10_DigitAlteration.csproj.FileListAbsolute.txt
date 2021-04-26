@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad10_DigitAlteration\Zad10_DigitAlteration\bin\Debug\Zad10_DigitAlteration.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad10_DigitAlteration\Zad10_DigitAlteration\bin\Debug\Zad10_DigitAlteration.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad10_DigitAlteration\Zad10_DigitAlteration\bin\Debug\Zad10_DigitAlteration.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad10_DigitAlteration\Zad10_DigitAlteration\obj\Debug\Zad10_DigitAlteration.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad10_DigitAlteration\Zad10_DigitAlteration\obj\Debug\Zad10_DigitAlteration.pdb

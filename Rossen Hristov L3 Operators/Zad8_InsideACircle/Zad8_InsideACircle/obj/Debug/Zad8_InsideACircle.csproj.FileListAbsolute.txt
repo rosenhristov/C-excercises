@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad8_InsideACircle\Zad8_InsideACircle\bin\Debug\Zad8_InsideACircle.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad8_InsideACircle\Zad8_InsideACircle\bin\Debug\Zad8_InsideACircle.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad8_InsideACircle\Zad8_InsideACircle\bin\Debug\Zad8_InsideACircle.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad8_InsideACircle\Zad8_InsideACircle\obj\Debug\Zad8_InsideACircle.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad8_InsideACircle\Zad8_InsideACircle\obj\Debug\Zad8_InsideACircle.pdb

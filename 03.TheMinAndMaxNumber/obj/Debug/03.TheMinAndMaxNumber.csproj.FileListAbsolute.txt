@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\03.TheMinAndMaxNumber\bin\Debug\03.TheMinAndMaxNumber.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\03.TheMinAndMaxNumber\bin\Debug\03.TheMinAndMaxNumber.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\03.TheMinAndMaxNumber\bin\Debug\03.TheMinAndMaxNumber.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\03.TheMinAndMaxNumber\obj\Debug\03.TheMinAndMaxNumber.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\03.TheMinAndMaxNumber\obj\Debug\03.TheMinAndMaxNumber.pdb

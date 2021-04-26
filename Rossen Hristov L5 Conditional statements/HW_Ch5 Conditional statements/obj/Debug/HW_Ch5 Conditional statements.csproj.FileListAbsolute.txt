@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 5 Conditional statements\Homework\HW_Ch5 Conditional statements\HW_Ch5 Conditional statements\bin\Debug\HW_Ch5 Conditional statements.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 5 Conditional statements\Homework\HW_Ch5 Conditional statements\HW_Ch5 Conditional statements\bin\Debug\HW_Ch5 Conditional statements.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 5 Conditional statements\Homework\HW_Ch5 Conditional statements\HW_Ch5 Conditional statements\bin\Debug\HW_Ch5 Conditional statements.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 5 Conditional statements\Homework\HW_Ch5 Conditional statements\HW_Ch5 Conditional statements\obj\Debug\HW_Ch5 Conditional statements.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 5 Conditional statements\Homework\HW_Ch5 Conditional statements\HW_Ch5 Conditional statements\obj\Debug\HW_Ch5 Conditional statements.pdb

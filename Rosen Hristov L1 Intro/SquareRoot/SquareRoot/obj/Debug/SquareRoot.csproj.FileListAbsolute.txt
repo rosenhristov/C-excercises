@@ -1,0 +1,12 @@
+C:\DEVELOPEMENT\C#\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\DEVELOPEMENT\C#\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+C:\DEVELOPEMENT\C#\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\DEVELOPEMENT\C#\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+C:\DEVELOPEMENT\C#\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache

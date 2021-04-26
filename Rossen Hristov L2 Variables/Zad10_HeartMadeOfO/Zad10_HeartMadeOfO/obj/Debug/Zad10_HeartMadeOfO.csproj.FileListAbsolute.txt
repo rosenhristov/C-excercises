@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad10_HeartMadeOfO\Zad10_HeartMadeOfO\bin\Debug\Zad10_HeartMadeOfO.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad10_HeartMadeOfO\Zad10_HeartMadeOfO\bin\Debug\Zad10_HeartMadeOfO.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad10_HeartMadeOfO\Zad10_HeartMadeOfO\bin\Debug\Zad10_HeartMadeOfO.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad10_HeartMadeOfO\Zad10_HeartMadeOfO\obj\Debug\Zad10_HeartMadeOfO.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad10_HeartMadeOfO\Zad10_HeartMadeOfO\obj\Debug\Zad10_HeartMadeOfO.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad10_HeartMadeOfO\Zad10_HeartMadeOfO\obj\Debug\Zad10_HeartMadeOfO.csprojResolveAssemblyReference.cache

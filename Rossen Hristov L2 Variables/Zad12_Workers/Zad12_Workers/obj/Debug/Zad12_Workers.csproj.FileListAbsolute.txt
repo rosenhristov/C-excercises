@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad12_Workers\Zad12_Workers\bin\Debug\Zad12_Workers.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad12_Workers\Zad12_Workers\bin\Debug\Zad12_Workers.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad12_Workers\Zad12_Workers\bin\Debug\Zad12_Workers.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad12_Workers\Zad12_Workers\obj\Debug\Zad12_Workers.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad12_Workers\Zad12_Workers\obj\Debug\Zad12_Workers.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad12_Workers\Zad12_Workers\obj\Debug\Zad12_Workers.csprojResolveAssemblyReference.cache

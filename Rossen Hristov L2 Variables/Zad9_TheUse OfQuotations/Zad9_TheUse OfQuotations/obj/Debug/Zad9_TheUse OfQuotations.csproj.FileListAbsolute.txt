@@ -1,0 +1,8 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\bin\Debug\Zad9_TheUse OfQuotations.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\bin\Debug\Zad9_TheUse OfQuotations.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\bin\Debug\Zad9_TheUse OfQuotations.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\obj\Debug\Zad9_TheUse OfQuotations.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\obj\Debug\Zad9_TheUse OfQuotations.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\bin\Debug\Zad9_TheUse OfQuotations.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\obj\Debug\Zad9_TheUse OfQuotations.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 2 Promenlivi\HW Chapter 2 Promenlivi\Zad9_TheUse OfQuotations\Zad9_TheUse OfQuotations\obj\Debug\Zad9_TheUse OfQuotations.pdb

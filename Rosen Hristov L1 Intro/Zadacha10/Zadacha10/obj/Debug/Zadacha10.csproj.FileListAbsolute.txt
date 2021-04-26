@@ -1,0 +1,15 @@
+C:\DEVELOPEMENT\C#\Zadacha10\Zadacha10\bin\Debug\Zadacha10.exe.config
+C:\DEVELOPEMENT\C#\Zadacha10\Zadacha10\bin\Debug\Zadacha10.exe
+C:\DEVELOPEMENT\C#\Zadacha10\Zadacha10\bin\Debug\Zadacha10.pdb
+C:\DEVELOPEMENT\C#\Zadacha10\Zadacha10\obj\Debug\Zadacha10.csprojResolveAssemblyReference.cache
+C:\DEVELOPEMENT\C#\Zadacha10\Zadacha10\obj\Debug\Zadacha10.exe
+C:\DEVELOPEMENT\C#\Zadacha10\Zadacha10\obj\Debug\Zadacha10.pdb
+H:\Telerik domashno\Zadacha10\Zadacha10\bin\Debug\Zadacha10.exe.config
+H:\Telerik domashno\Zadacha10\Zadacha10\obj\Debug\Zadacha10.exe
+H:\Telerik domashno\Zadacha10\Zadacha10\obj\Debug\Zadacha10.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\Zadacha10\Zadacha10\bin\Debug\Zadacha10.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\Zadacha10\Zadacha10\obj\Debug\Zadacha10.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\Zadacha10\Zadacha10\obj\Debug\Zadacha10.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\Zadacha10\Zadacha10\bin\Debug\Zadacha10.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\Zadacha10\Zadacha10\bin\Debug\Zadacha10.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 1 Introduction to Programming\#Rosen Hristov Domashno Lerkciya 1\Zadacha10\Zadacha10\obj\Debug\Zadacha10.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\04.FactorialQuotient\bin\Debug\04.FactorialQuotient.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\04.FactorialQuotient\bin\Debug\04.FactorialQuotient.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\04.FactorialQuotient\bin\Debug\04.FactorialQuotient.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\04.FactorialQuotient\obj\Debug\04.FactorialQuotient.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\04.FactorialQuotient\obj\Debug\04.FactorialQuotient.pdb

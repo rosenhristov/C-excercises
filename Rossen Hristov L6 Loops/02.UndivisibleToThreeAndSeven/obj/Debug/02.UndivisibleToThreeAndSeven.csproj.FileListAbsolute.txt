@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\02.UndivisibleToThreeAndSeven\bin\Debug\02.UndivisibleToThreeAndSeven.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\02.UndivisibleToThreeAndSeven\bin\Debug\02.UndivisibleToThreeAndSeven.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\02.UndivisibleToThreeAndSeven\bin\Debug\02.UndivisibleToThreeAndSeven.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\02.UndivisibleToThreeAndSeven\obj\Debug\02.UndivisibleToThreeAndSeven.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\02.UndivisibleToThreeAndSeven\obj\Debug\02.UndivisibleToThreeAndSeven.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 6 Loops\Homework\06.Loops\02.UndivisibleToThreeAndSeven\obj\Debug\02.UndivisibleToThreeAndSeven.csprojResolveAssemblyReference.cache

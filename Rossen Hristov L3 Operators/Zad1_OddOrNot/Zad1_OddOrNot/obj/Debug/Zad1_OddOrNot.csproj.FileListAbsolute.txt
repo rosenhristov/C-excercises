@@ -1,0 +1,5 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad1_OddOrNot\Zad1_OddOrNot\bin\Debug\Zad1_OddOrNot.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad1_OddOrNot\Zad1_OddOrNot\bin\Debug\Zad1_OddOrNot.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad1_OddOrNot\Zad1_OddOrNot\bin\Debug\Zad1_OddOrNot.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad1_OddOrNot\Zad1_OddOrNot\obj\Debug\Zad1_OddOrNot.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad1_OddOrNot\Zad1_OddOrNot\obj\Debug\Zad1_OddOrNot.pdb

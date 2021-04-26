@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad13_BitValeAlteration\Zad13_BitValeAlteration\bin\Debug\Zad13_BitValeAlteration.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad13_BitValeAlteration\Zad13_BitValeAlteration\obj\Debug\Zad13_BitValeAlteration.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad13_BitValeAlteration\Zad13_BitValeAlteration\bin\Debug\Zad13_BitValeAlteration.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad13_BitValeAlteration\Zad13_BitValeAlteration\bin\Debug\Zad13_BitValeAlteration.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad13_BitValeAlteration\Zad13_BitValeAlteration\obj\Debug\Zad13_BitValeAlteration.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad13_BitValeAlteration\Zad13_BitValeAlteration\obj\Debug\Zad13_BitValeAlteration.pdb

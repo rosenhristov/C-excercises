@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad7_MassOnTheMoon\Zad7_MassOnTheMoon\bin\Debug\Zad7_MassOnTheMoon.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad7_MassOnTheMoon\Zad7_MassOnTheMoon\obj\Debug\Zad7_MassOnTheMoon.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad7_MassOnTheMoon\Zad7_MassOnTheMoon\bin\Debug\Zad7_MassOnTheMoon.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad7_MassOnTheMoon\Zad7_MassOnTheMoon\bin\Debug\Zad7_MassOnTheMoon.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad7_MassOnTheMoon\Zad7_MassOnTheMoon\obj\Debug\Zad7_MassOnTheMoon.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad7_MassOnTheMoon\Zad7_MassOnTheMoon\obj\Debug\Zad7_MassOnTheMoon.pdb

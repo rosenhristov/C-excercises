@@ -1,0 +1,6 @@
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad4_BitChecker\Zad4_BitChecker\bin\Debug\Zad4_BitChecker.exe.config
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad4_BitChecker\Zad4_BitChecker\bin\Debug\Zad4_BitChecker.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad4_BitChecker\Zad4_BitChecker\bin\Debug\Zad4_BitChecker.pdb
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad4_BitChecker\Zad4_BitChecker\obj\Debug\Zad4_BitChecker.csprojResolveAssemblyReference.cache
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad4_BitChecker\Zad4_BitChecker\obj\Debug\Zad4_BitChecker.exe
+F:\@DOCUMENTS\PROOGRAMMING\Kurs C#\Chapter 3 Operatori\Zad4_BitChecker\Zad4_BitChecker\obj\Debug\Zad4_BitChecker.pdb
